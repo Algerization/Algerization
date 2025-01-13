@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Virtuoso - Moderation Discord Bot**
+- 🔭 I’m currently working on **Areen - FPS MULTI-PLAYER GAME**
 
 - 🌱 I’m currently learning **C++ / C#**
 
