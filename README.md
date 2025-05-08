@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Rayan or Algerization</h1>
 <h3 align="center">Your fav Full-Stack Developer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=slayerdevv&label=Profile%20views&color=0e75b6&style=flat" alt="slayerdevv" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=algerization&label=Profile%20views&color=0e75b6&style=flat" alt="algerization" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=slayerdevv" alt="slayerdevv" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=algerization" alt="algerization" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Areen - FPS MULTI-PLAYER GAME**
+- 🔭 I’m currently working on **Mazalna.app**
 
 - 🌱 I’m currently learning **C++ / C#**
 
